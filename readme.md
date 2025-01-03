@@ -7,6 +7,7 @@ This API is still under development and in a rough state. The Python server is h
 
 **Credits:**
 
+- 0x11/Luner
 - GeorgeDroyd  
 - Drycheetah (Although I don't personally have the best opinion of him, he did the majority of the work on this project. Despite the issues between us, he deserves credit for his efforts.)
 
